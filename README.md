@@ -1,1 +1,1 @@
-# Vaccination_slot_booking_using_python
+# Vaccination slot booking using python
